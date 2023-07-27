@@ -1,0 +1,9 @@
+project part1 is
+    
+    for main use ("part1.adb");
+    for Source_Dirs use("common");
+    for Object_Dir use ".obj";
+    for Exec_Dir use "./";
+
+
+end part1;
