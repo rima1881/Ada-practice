@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__part4.o
+[PROJECT FILES]
+C:\Users\Amdgh\Documents\Ada-practice\coen243\1\part4\part4.gpr
+20230727221356 ec373818441948af0cd3b2018f8f1756
+[BOUND OBJECT FILES]
+C:\Users\Amdgh\Documents\Ada-practice\coen243\1\part4\.Obj\part4.o
+[GENERATED SOURCE FILES]
+b__part4.ads
+b__part4.adb
+b__part4.ali
+[RESULTING OPTIONS]
+-LC:\Users\Amdgh\Documents\Ada-practice\coen243\1\part4\.Obj\
+-LC:\Users\Amdgh\Documents\Ada-practice\coen243\1\part4\.Obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/adalib/
+-static
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000
