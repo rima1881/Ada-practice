@@ -2,7 +2,7 @@
 
 this repo conains my Ada practices.
 
-practice exercises content:s
+practice exercises content:
 <ul>
     <li>
         <a href="https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/?ranMID=39197&ranEAID=xLhRGGPIZ24&ranSiteID=xLhRGGPIZ24-oLseZot5eFVo8zsMcRwlsg&LSNPUBID=xLhRGGPIZ24&utm_source=aff-campaign&utm_medium=udemyads">
