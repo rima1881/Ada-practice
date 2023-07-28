@@ -1,0 +1,9 @@
+aggregate project assignment1 is
+    for Project_files use (
+        "part1/part1.gpr",
+        "part2/part2.gpr",
+        "part3/part3.gpr",
+        "part4/part4.gpr",
+        "part5/part5.gpr"
+    );
+end assignment1;

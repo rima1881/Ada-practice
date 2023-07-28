@@ -1,9 +1,10 @@
 with Ada.Text_IO;use Ada.Text_IO;
 
-procedure part3 is
+
+procedure part5  is
     
 begin
     
-    Put("fuck you");
+    Put("fuck off");
 
-end part3;
+end part5;

@@ -1,0 +1,8 @@
+aggregate project AdaPractice is
+    for Project_files use (
+        "coen243/coen243.gpr"
+    );
+
+    for Object_Dir use "obj";
+
+end AdaPractice;
