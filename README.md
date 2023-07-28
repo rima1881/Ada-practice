@@ -1,6 +1,11 @@
 # Ada practices
 
 this repo conains my Ada practices.
+<hr />
+To compile the code run <b> gprbuild -p AdaPractice.gpr </b>
+<hr />
+
+If you have any further questions or requests please don't hesitate to contact me.
 
 practice exercises content:
 <ul>

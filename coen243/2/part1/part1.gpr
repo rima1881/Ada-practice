@@ -1,12 +1,12 @@
 project part1 is
     
+    for Source_Dirs use ("common");
     for main use ("part1.adb");
-    for Source_Dirs use("common");
     for Object_Dir use "../../../obj";
     for Exec_Dir use "../../../exe";
 
     package Builder is
-        for Executable ("part1.adb") use "Assignment1-part1";
+        for Executable ("part1.adb") use "Assignment2-part1";
     end Builder;
 
 end part1;

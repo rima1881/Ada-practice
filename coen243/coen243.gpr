@@ -1,6 +1,10 @@
 aggregate project coen243 is
     
 
-    for Project_files use ("1/assignment1.gpr");
+    for Project_files use (
+        "1/assignment1.gpr",
+        "2/assignment2.gpr"
+    
+    );
 
 end coen243;

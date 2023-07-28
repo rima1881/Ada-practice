@@ -2,5 +2,11 @@ project part5 is
 
     for Object_Dir use "../../../obj";
     for Exec_Dir use "../../../exe";
+    for main use ("part5.adb");
+    for Source_Dirs use ("common");
+
+    package Builder is
+        for Executable ("part5.adb") use "Assignment1-part5";
+    end Builder;
 
 end part5;
